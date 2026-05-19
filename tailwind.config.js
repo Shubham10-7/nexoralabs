@@ -36,9 +36,10 @@ module.exports = {
         border: { DEFAULT: 'var(--border)' },
         input: { DEFAULT: 'var(--input)' },
         ring: { DEFAULT: 'var(--ring)' },
-        'electric-blue': '#0066FF',
-        'luxury-dark': '#0D0D1A',
-        'card-dark': '#111827',
+        'neon-red': '#FF0A2F',
+        'neon-blue': '#00D4FF',
+        'cyber-dark': '#080A0F',
+        'hud-card': '#0A0E18',
       },
       borderRadius: {
         DEFAULT: 'var(--radius)',
