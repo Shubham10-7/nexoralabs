@@ -20,6 +20,9 @@ export default function CursorGlow() {
       ref={glowRef}
       className="cursor-glow"
       aria-hidden="true"
+      style={{
+        background: 'radial-gradient(circle, rgba(255,10,47,0.05) 0%, rgba(0,212,255,0.03) 40%, transparent 70%)',
+      }}
     />
   );
 }
