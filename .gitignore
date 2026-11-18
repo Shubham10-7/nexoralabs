@@ -35,3 +35,10 @@ jest-test-results.json
 
 # Optional: if using TurboRepo or monorepo
 turbo/
+
+.env
+.env.*
+!.env.example
+node_modules
+.next/
+.vercel/
